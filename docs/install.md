@@ -6,7 +6,7 @@ title: Install
 First, install Prettier locally:
 
 <!--DOCUSAURUS_CODE_TABS-->
-<!--npm-->
+<!--npm -->
 
 ```bash
 npm install --save-dev --save-exact prettier
